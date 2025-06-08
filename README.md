@@ -35,7 +35,7 @@ O PetsDev é uma aplicação web moderna, utilizando as tecnologias mais recente
    yarn dev
    ```
 
-3. Abra [http://localhost:3000] no navegador para ver o resultado.
+3. Abra [http://localhost:3000](http://localhost:3000) no navegador para ver o resultado.
 
 ## Scripts Disponíveis
 
